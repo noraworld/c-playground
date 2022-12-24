@@ -1,0 +1,11 @@
+a.out
+kadai.c
+kadai1
+kadai1.core
+kadai1.c
+kadai2.c
+kadai3.c
+kadai4.c
+kadai4omake.c
+practice01.c
+paractice02.c
